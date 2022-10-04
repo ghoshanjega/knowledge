@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+yarn-error.log
+*lock.json
+.nyc_output/
+
+.idea
+
+contest
+
+
+#Added by cargo
+#
+#already existing elements are commented out
+
+/target
+**/*.rs.bk

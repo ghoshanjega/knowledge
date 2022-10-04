@@ -1,0 +1,15 @@
+{
+  "jest.jestCommandLine": "yarn test",
+  // Default (format when you paste)
+  // "editor.formatOnPaste": true,
+  // // Default (format when you save)
+  // "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript",
+    "typescript"
+  ],
+  "editor.tabSize": 2
+}
